@@ -9,7 +9,12 @@
 [![My Languages](https://skillicons.dev/icons?i=cpp,css,py,rust,html,bash,lua,sql,pytorchmarkdown&theme=dark)](https://skillicons.dev)
 
 # Operating Systems
-[![Operating Systems I've used](https://skillicons.dev/icons?i=linux,windows,apple&theme=dark)](https://skillicons.dev)
+<div >
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="fedora" title="fedora"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/>
+</div>
 
 # Tools/Software
 [![My Skills](https://skillicons.dev/icons?i=github,robloxstudio,godot,vscode,replit,photoshop,discord,flask,tensorflow,flask,selenium,sqlite,replit,raspberrypi&theme=dark)](https://skillicons.dev)
